@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22310.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LRU Cache", "LRU Cache\LRU Cache.vcxproj", "{6C6B5D38-E958-4BF3-A792-1A618CAF2B3E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LRU", "LRU\LRU.vcxproj", "{533917A1-C1EC-4EDA-A5E6-08B1146F445B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6C6B5D38-E958-4BF3-A792-1A618CAF2B3E}.Debug|Win32.ActiveCfg = Debug|Win32
-		{6C6B5D38-E958-4BF3-A792-1A618CAF2B3E}.Debug|Win32.Build.0 = Debug|Win32
-		{6C6B5D38-E958-4BF3-A792-1A618CAF2B3E}.Release|Win32.ActiveCfg = Release|Win32
-		{6C6B5D38-E958-4BF3-A792-1A618CAF2B3E}.Release|Win32.Build.0 = Release|Win32
+		{533917A1-C1EC-4EDA-A5E6-08B1146F445B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{533917A1-C1EC-4EDA-A5E6-08B1146F445B}.Debug|Win32.Build.0 = Debug|Win32
+		{533917A1-C1EC-4EDA-A5E6-08B1146F445B}.Release|Win32.ActiveCfg = Release|Win32
+		{533917A1-C1EC-4EDA-A5E6-08B1146F445B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 
 	std::cout << std::endl;
 
-	std::cout << "one containts? - " << (cache.containts("one") == true? "true" : "false") << std::endl;
+	std::cout << "one containts? - " << (cache.containts("one") == true ? "true" : "false") << std::endl;
 	std::cout << "one key was removed as oldest" << std::endl;
 
 	getchar();
